@@ -1,6 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+
  */
 package student1;
 
@@ -8,6 +9,7 @@ public class Student1 {
    // public static void main(String[] args) {
         private String studentID;
         private String studentName;
+        private String address;
 
     public Student1(String studentID, String studentName ) {
         this.studentID = studentID;
