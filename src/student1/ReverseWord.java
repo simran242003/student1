@@ -8,9 +8,11 @@ package student1;
 /**
  *
  * @author Simran
+ * comments on 24th jan
  */
 import java.util.Scanner;
-/*author simran*/
+/*author simran**/
+
 public class ReverseWord {
     public static void main(String args[]){
        /* char[]=myWord=new char[7];
